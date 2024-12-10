@@ -1,0 +1,5 @@
+tts
+huggingface_hub
+gradio==3.41.2
+spaces
+numpy==1.23.0
